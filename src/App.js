@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from './components/Header'
 import Project from './components/Project'
+import Contact from './components/Contact'
 import Footer from './components/Footer'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -10,6 +11,7 @@ function App() {
     <div className='cover-container d-flex w-100 h-100 p-3 mx-auto flex-column'>
       <Header></Header>
       <main>
+        <Contact></Contact>
         <section className='my-5'>
             <h1 id='about'>Who am I?</h1>
             <div className="my-2">
