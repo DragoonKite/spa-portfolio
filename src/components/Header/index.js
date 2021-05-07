@@ -3,13 +3,11 @@ import Nav from '../Nav'
 
 function Header () {
     return(
-        <header data-testid="header" className="flex-row px-1"> 
-             <h2>
-                <a data-testid="link" href="/">
-                Frank D.
-                </a>
-            </h2>
-            <Nav></Nav>
+        <header data-testid="header" className="mb-auto">
+            <div>
+                <h2 className='float-md-start mb-0'>Frank D.</h2>
+                <Nav></Nav>
+            </div> 
         </header>
     )
 }
