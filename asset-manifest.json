@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spa-portfolio/static/css/main.98a665a0.chunk.css",
+    "main.js": "/spa-portfolio/static/js/main.57284155.chunk.js",
+    "main.js.map": "/spa-portfolio/static/js/main.57284155.chunk.js.map",
+    "runtime-main.js": "/spa-portfolio/static/js/runtime-main.fdda0bfb.js",
+    "runtime-main.js.map": "/spa-portfolio/static/js/runtime-main.fdda0bfb.js.map",
+    "static/css/2.800be05e.chunk.css": "/spa-portfolio/static/css/2.800be05e.chunk.css",
+    "static/js/2.4a1875a4.chunk.js": "/spa-portfolio/static/js/2.4a1875a4.chunk.js",
+    "static/js/2.4a1875a4.chunk.js.map": "/spa-portfolio/static/js/2.4a1875a4.chunk.js.map",
+    "static/js/3.fd7af946.chunk.js": "/spa-portfolio/static/js/3.fd7af946.chunk.js",
+    "static/js/3.fd7af946.chunk.js.map": "/spa-portfolio/static/js/3.fd7af946.chunk.js.map",
+    "index.html": "/spa-portfolio/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/spa-portfolio/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.98a665a0.chunk.css.map": "/spa-portfolio/static/css/main.98a665a0.chunk.css.map",
+    "static/js/2.4a1875a4.chunk.js.LICENSE.txt": "/spa-portfolio/static/js/2.4a1875a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdda0bfb.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.4a1875a4.chunk.js",
+    "static/css/main.98a665a0.chunk.css",
+    "static/js/main.57284155.chunk.js"
+  ]
+}
