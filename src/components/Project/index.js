@@ -49,7 +49,7 @@ function Project () {
                             <div className="card-body">
                                 <h5 className="card-title text-secondary">{project.title}</h5>
                             </div>
-                            <img className="card-img-top" src={`/assets/images/${project.image}`} alt={project.title} key={project.title}/>
+                            <img className="card-img-top" src={`assets/images/${project.image}`} alt={project.title} key={project.title}/>
                             <div className="card-body">
                                 <a href={project.page} target="_blank" rel="noreferrer" className="card-link">Visit</a>
                                 <a href={project.code} target="_blank" rel="noreferrer" className="card-link">Github</a>

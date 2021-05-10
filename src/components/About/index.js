@@ -1,4 +1,5 @@
 import React from 'react';
+import profilePic from '../../assets/images/0.jpg'
 
 function About () {
     return (
@@ -6,7 +7,7 @@ function About () {
             <h1 id='about'>Who am I?</h1>
             <div className="my-2">
                 <img
-                    src={`/assets/images/0.jpg`}
+                    src={profilePic}
                     alt="Frank D. profile pic."
                     key="profilePic"
                 />
