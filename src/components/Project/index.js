@@ -31,6 +31,12 @@ function Project () {
             image: "pizza-hunt.jpg",
             page: "https://hidden-brushlands-76079.herokuapp.com/",
             code: "https://github.com/DragoonKite/pizza-hunt"
+        },
+        {
+            title: "Let's Take Some Notes",
+            image: "lets-take-some-notes.jpg",
+            page: "https://glacial-springs-90264.herokuapp.com/",
+            code: "https://github.com/DragoonKite/lets-take-some-notes"
         }
     ];
 
