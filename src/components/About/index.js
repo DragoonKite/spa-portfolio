@@ -5,8 +5,13 @@ function About () {
         <section className='my-5'>
             <h1 id='about'>Who am I?</h1>
             <div className="my-2">
+                <img
+                    src={`/assets/images/0.jpg`}
+                    alt="Frank D. profile pic."
+                    key="profilePic"
+                />
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+                I am a hard worker and fast learner. I worked throughout college while getting my undergrad and Masters. While getting my post-grad degree I was also serving as an officer in the National Guard and planning a wedding, while still working. Throughout the coding bootcamp I attended to become a full-stack developer I have picked up the new technologies fast and even a few libraries and tools not taught to better improve my code and my coding skills.  If you are looking for a hard worker who is not scared away by learning new technology, then I am your coder. 
                 </p>
             </div>
         </section>
