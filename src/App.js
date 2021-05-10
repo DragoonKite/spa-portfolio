@@ -3,6 +3,7 @@ import './App.css';
 import Header from './components/Header'
 import Project from './components/Project'
 import Contact from './components/Contact'
+import Resume from './components/Resume'
 import Footer from './components/Footer'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -11,7 +12,9 @@ function App() {
     <div className='cover-container d-flex w-100 h-100 p-3 mx-auto flex-column'>
       <Header></Header>
       <main>
+        <Project></Project>
         <Contact></Contact>
+        <Resume></Resume>
         <section className='my-5'>
             <h1 id='about'>Who am I?</h1>
             <div className="my-2">

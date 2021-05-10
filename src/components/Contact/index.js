@@ -34,6 +34,7 @@ function Contact() {
         
         <section>
           <h1>Contact me</h1>
+          <span>My Info: <a href = "mailto:frank.depaolo@yahoo.com" target="_blank" rel="noopener noreferrer" className="unlink">frank.depaolo@yahoo.com</a> / (469)-955-2779</span>
           <form id="contact-form" className='' onSubmit={handleSubmit}>
             <div className='form-group'>
                 <label htmlFor="name">Name:</label>
