@@ -1,10 +1,10 @@
 import React from 'react';
-
+import myResume from '../../assets/resume.pdf'
 function Resume () {
     return(
         <section>
             <h3>Resume</h3>
-            <span>Download my resume <a href='../../assets/resume.pdf' download>here</a></span>
+            <span>Download my resume <a href={myResume} download>here</a></span>
             <div>
                 <strong>Front-End Skills</strong> 
                 <ul className='unstyled'>
