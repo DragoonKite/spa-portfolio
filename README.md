@@ -19,6 +19,7 @@ The code contians a public folder and src folder as well as package.json files. 
 https://dragoonkite.github.io/spa-portfolio/
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DragoonKite/spa-portfolio)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b33e139-a61f-48ca-ab23-b0e49526a91f/deploy-status)](https://app.netlify.com/sites/spa-portfolio-depaolo/deploys)
 
 ## Contribution
 Made with ❤️ by DragoonKite
