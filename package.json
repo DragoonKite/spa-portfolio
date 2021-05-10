@@ -1,8 +1,8 @@
 {
+  "homepage": "http://dragoonkite.github.io/spa-portfolio",
   "name": "spa-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dragoonkite.github.io/spa-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
