@@ -10,15 +10,15 @@ To create an updated portfolio using ReactJS and design it as a single-page appl
 * CSS
 
 ## Contents
-The code contians a public.
+The code contians a public folder and src folder as well as package.json files. The public folder contains the images, the resume in a pdf format, and the index.html file. The src folder contians the componenets folder and within that all of the pieces used to construct the webpage, a utils folder with helpers, the add.js and add.css files, index.js and index.css files, and the last two files are the reportWebVitals.js and setupTest.js.  
 
 ## Screenshot
-![Example screenshot](./screenshot.PNG)
+![Example screenshot](./screenshot.png)
 
 ## Deployed At
-https://stormy-cliffs-66124.herokuapp.com/
+https://dragoonkite.github.io/spa-portfolio/
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DragoonKite/budget-tracker-pwa)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DragoonKite/spa-portfolio)
 
 ## Contribution
 Made with ❤️ by DragoonKite
