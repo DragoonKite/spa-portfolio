@@ -16,7 +16,7 @@ function Project () {
         },
         {
             title: "Beer Me",
-            image: "eat-out-austin.jpg",
+            image: "beer-me.jpg",
             page: "https://hey-beer-me.herokuapp.com/",
             code: "https://github.com/blueink38/beer-me"
         },
