@@ -15,6 +15,12 @@ function Project () {
             code: "https://github.com/DragoonKite/eat-out-austin"
         },
         {
+            title: "Beer Me",
+            image: "eat-out-austin.jpg",
+            page: "https://hey-beer-me.herokuapp.com/",
+            code: "https://github.com/blueink38/beer-me"
+        },
+        {
             title: "Beginner Blog",
             image: "mvc-blog.jpg",
             page: "https://desolate-escarpment-46981.herokuapp.com/",
