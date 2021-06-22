@@ -9,10 +9,11 @@ function Resume () {
                 <strong>Front-End Skills</strong> 
                 <ul className='unstyled'>
                     <li>HTMl/CSS</li>
+                    <li>Bootstrap/Semantic UI</li>
                     <li>Web API</li>
                     <li>Javascript/JQuery</li>
-                    <li>Handlebars/React</li>
-                    <li>ManifestJS</li>
+                    <li>Handlebars/React/Redux</li>
+                    <li>PWA/ManifestJS</li>
                 </ul>
                 <strong>Back-End Skills</strong>
                 <ul className='unstyled'>
@@ -21,6 +22,7 @@ function Resume () {
                     <li>Server-Side API</li>
                     <li>MySQL/Sequelize</li>
                     <li>NongoDB/Mongoose</li>
+                    <li>Graphql</li>
                 </ul>
             </div>     
         </section>
